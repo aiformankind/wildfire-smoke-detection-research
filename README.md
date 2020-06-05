@@ -1,1 +1,27 @@
 # wildfire-smoke-detection-research
+
+In this project, we want to investigate and promote the use of AI Deep Learning in early wildfire smoke detection. We want to raise awareness about the crisis and rally more people/AI experts to work on this problem. We continue to promote the curation of open datasets to speed up research and development. We collaborate with [HPWREN](http://hpwren.ucsd.edu/) in promoting the collaboration of our volunteers from private tech with public sector in solving this wildfire crisis.
+
+  AI For Mankind had annotated 744 wildfire smoke HPWREN images in 2019 and built a wildfire smoke detector using the annotated images. It has shown promising results running against wildfire images captured by HPWREN in 2020. See below.
+
+ 1. For 2020-02-05 fire captured by HPWREN camera hp-w-mobo-c, our detector detected the smoke *13 minutes* after fire ignition.
+
+    <br/>
+    <a href="https://youtu.be/CcbXdcMEQvs"><img src="images/smoke_detector_in_action_13mins_detected.png" width="500" ></a>
+    <br clear="right"/>
+
+ 2. For 2020-03-06 fire captured by HPWREN camera mlo-n-mobo-c, our detector detected the smoke *3 minutes* after fire ignition. See video below.
+
+    <br/>
+    <a href="https://youtu.be/X_QvjA1-Nb4"><img src="images/smoke_detector_in_action_3mins_detected.png" width="500" ></a>
+
+    <br clear="right"/>
+
+    <br/>
+
+ 3. For 2020-05-21 fire captured by HPWREN camera VEGMGMT ml-w-mobo-c, our detector detected the smoke *16 minutes* after fire ignition.
+
+    <br/>
+
+    <img src="images/20200521_VEGMGMT_ml-w-mobo-c_1590081617_+00960_smoke_detected.png" alt="Wildfire Smoke Detector in Action" width="450"/>
+    <br clear="right"/>
