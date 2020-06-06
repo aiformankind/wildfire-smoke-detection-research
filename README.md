@@ -1,6 +1,6 @@
 # wildfire-smoke-detection-research
 
-In this project, we want to investigate and promote the use of AI Deep Learning in early wildfire smoke detection. We want to raise awareness about the crisis and rally more people/AI experts to work on this problem. We continue to promote the curation of open datasets to speed up research and development. We collaborate with [HPWREN](http://hpwren.ucsd.edu/) in promoting the collaboration of our volunteers from private tech with public sector in solving this wildfire crisis.
+In this project, we want to investigate and promote the use of AI Deep Learning in early wildfire smoke detection. We want to raise awareness about the wildfire crisis and rally more people/AI experts to work on this problem. We continue to promote the curation of open datasets to speed up research and development. We collaborate with [HPWREN](http://hpwren.ucsd.edu/) in promoting the collaboration of our volunteers from private tech with public sector in solving this wildfire crisis.
 
   AI For Mankind had annotated 744 wildfire smoke HPWREN images in 2019 and built a wildfire smoke detector using the annotated images. It has shown promising results running against wildfire images captured by HPWREN in 2020. See below.
 
@@ -25,3 +25,15 @@ In this project, we want to investigate and promote the use of AI Deep Learning 
 
     <img src="images/20200521_VEGMGMT_ml-w-mobo-c_1590081617_+00960_smoke_detected.png" alt="Wildfire Smoke Detector in Action" width="450"/>
     <br clear="right"/>
+
+As an effort to improve our wildfire smoke detector, we run our model against HPWREN camera images a couple times a day to evaluate our system and collect false positive examples to retrain our model.
+
+Here is the website: http://wildfire-smoke-detector.westus2.cloudapp.azure.com:5000/ You can see our detector in action.
+
+## What We are Working on
+
+1. Improve model capability to differentiate between cloud/fog and smoke
+2. Build end to end feedback loop
+
+
+
