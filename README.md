@@ -41,12 +41,11 @@ We ran AI For Mankind's wildfire smoke detector aka "The Super Duper" against pa
    
 As an effort to improve our wildfire smoke detector, we run our model against HPWREN camera images a couple times a day to evaluate our system and collect false positive examples to retrain our model.
 
-Here is the website: http://wildfire-smoke-detector.westus2.cloudapp.azure.com:5000/ You can see our detector in action.
-
 ## What We are Working on
 
 1. Improve model capability to differentiate between cloud/fog and smoke
 2. Build end to end feedback loop
 
-
+## Donate to Support Us
+[Donate](https://donorbox.org/support-the-evaluation-and-deployment-of-wildfire-smoke-detector) to support our efforts. Your donation is tax deductible. 
 
