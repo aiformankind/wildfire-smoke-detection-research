@@ -46,6 +46,14 @@ As an effort to improve our wildfire smoke detector, we run our model against HP
 1. Improve model capability to differentiate between cloud/fog and smoke
 2. Build end to end feedback loop
 
+## System under Evaluation
+We setup the system to run against HPWREN cameras every 15 minutes for evaluation/testing purpose. Each site handles ~ 60 cameras so that we can finish evaluating all the cameras within 15 mins. 
+
+[Site 1](http://wildfire-smoke-detector.westus2.cloudapp.azure.com:5000)
+[Site 2](http://wildfire-smoke-detector-2.westus2.cloudapp.azure.com:5000)
+[Site 3](http://wildfire-smoke-detector-3.westus2.cloudapp.azure.com:5000)
+[Site 4](http://wildfire-smoke-detector-4.westus2.cloudapp.azure.com:5000)
+
 ## Donate to Support Us
 [Donate](https://donorbox.org/support-the-evaluation-and-deployment-of-wildfire-smoke-detector) to support our efforts. Your donation is tax deductible. 
 
