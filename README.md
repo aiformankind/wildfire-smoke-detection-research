@@ -29,8 +29,18 @@ We continue to promote the curation of open datasets to speed up research and de
     <br clear="right"/>
 
     <br/>
+    
+ 4. For 2019-10-06 fire captured by HPWREN camera lp-s-mobo-c, our detector detected the smoke *10 minutes* after fire ignition. See video below.
+
+    <br/>
+    <a href="https://youtu.be/XVvZVnxHv4A"><img src="images/smoke_detector_in_action_10mins_detected_20191006.png
+" width="500" ></a>
+
+    <br clear="right"/>
+
+    <br/>   
  
- 4. For 2020-05-21 fire captured by HPWREN camera VEGMGMT ml-w-mobo-c, our detector detected the smoke *16 minutes* after fire ignition.
+ 5. For 2020-05-21 fire captured by HPWREN camera VEGMGMT ml-w-mobo-c, our detector detected the smoke *16 minutes* after fire ignition.
 
     <br/>
 
