@@ -73,6 +73,14 @@ We continue to organize a series of Lets Stop Wildfires Hackathons. You can lear
 ## System under Evaluation
 We setup the system to run against HPWREN cameras every 30 minutes for evaluation/testing purpose. Each site handles ~ 60 cameras so that we can finish evaluating all the cameras within 30 mins. In the next few weeks, we will reduce the delay to ~15 mins. 
 
+## False Positive Rate
+We tested our model against during time period eg. sunrise, sunset, or during foggy condition and shared our false positive rates below. We will continue to curate, test, and share the results and datasets.
+
+| False Positive Study |               |              |                        |                     |                                                                           |
+|----------------------|---------------|--------------|------------------------|---------------------|---------------------------------------------------------------------------|
+|                      | Model         | Total Images | Num of False Positives | False Positive Rate | Link to Dataset                                                           |
+| Sunrise              | SuperDuper-v1 | 181          | 2                      | 0.011       | https://www.dropbox.com/sh/71jdkv7tdtmmif8/AACdd51AH4BNX84bJSrGWrssa?dl=0 |
+| Fog                  | SuperDuper-v1 | 181          | 72                     | 0.398        | https://www.dropbox.com/sh/iw40v0yrkkimhha/AAANC4cxJR90cp8cfXF5kYHaa?dl=0 |
 
 ## Donate to Support Us
 [Donate](https://donorbox.org/support-the-evaluation-and-deployment-of-wildfire-smoke-detector) to support our efforts. Your donation is tax deductible. 
