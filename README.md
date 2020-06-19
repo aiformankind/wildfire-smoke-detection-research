@@ -64,6 +64,10 @@ We continue to organize a series of Lets Stop Wildfires Hackathons. You can lear
   [2020 Lets Stop Wildfires Hackathon 2.0](https://aiformankind.github.io/lets-stop-wildfires-hackathon-2.0/)
   
   [2019 Lets Stop Wildfires Hackathon](https://aiformankind.github.io/lets-stop-wildfires-hackathon/)
+  
+## Example Smokes
+The following videos show the challenges in detecting wildfire smokes.
+1. [Far away smoke](https://youtu.be/D22NCqamu_8)
 
 ## What We are Working on
 
