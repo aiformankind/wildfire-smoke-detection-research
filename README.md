@@ -83,9 +83,9 @@ We had developed 3 models: SuperDuper-v1, SuperDuper-v2, and SuperDuper-edge. On
 
 | Name            | AveragePrecison@0.5IOU/smoke |
 |-----------------|-----------------|
-| SuperDuper-v1   | 0.751           |
-| SuperDuper-v2   | 0.867           |
-| SuperDuper-edge | 0.682           |
+| SuperDuper-v1   | 0.7506           |
+| SuperDuper-v2   | 0.8669           |
+| SuperDuper-edge | 0.6822           |
 
 
 ## False Positive Rate
