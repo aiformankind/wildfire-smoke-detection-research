@@ -99,6 +99,8 @@ We tested our model against different time periods eg. during sunrise, sunset, o
 | Sunrise              | SuperDuper-v1 | 181          | 2                      | 0.011       | https://www.dropbox.com/sh/71jdkv7tdtmmif8/AACdd51AH4BNX84bJSrGWrssa?dl=0 |
 | Fog                  | SuperDuper-v1 | 181          | 72                     | 0.398        | https://www.dropbox.com/sh/iw40v0yrkkimhha/AAANC4cxJR90cp8cfXF5kYHaa?dl=0 |
 
+On average, false positive rate ~0.0860
+
 ## Donate to Support Us
 [Donate](https://donorbox.org/support-the-evaluation-and-deployment-of-wildfire-smoke-detector) to support our efforts. Your donation is tax deductible. 
 
