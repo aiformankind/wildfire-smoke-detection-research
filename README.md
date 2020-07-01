@@ -83,7 +83,7 @@ We setup the system to run against HPWREN cameras every 30 minutes for evaluatio
 We had developed 3 models: SuperDuper-v1, SuperDuper-v2, and SuperDuper-edge. One of them, SuperDuper-edge is optimized for edge device. The table shows the performance of our models.
 
 
-| Name            | AveragePrecison@0.5IOU/smoke |
+| Name            | AveragePrecison 0.5IOU/smoke |
 |-----------------|-----------------|
 | SuperDuper-v1   | 0.7506           |
 | SuperDuper-v2   | 0.8669           |
