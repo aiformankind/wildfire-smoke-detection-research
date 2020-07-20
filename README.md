@@ -80,7 +80,7 @@ The following videos show the challenges in detecting wildfire smokes.
 2. Build end to end feedback loop
 
 ## System under Evaluation
-We setup the system to run against HPWREN cameras every 30 minutes for evaluation/testing purpose. Each site handles ~ 60 cameras so that we can finish evaluating all the cameras within 30 mins. In the next few weeks, we will reduce the delay to ~15 mins. 
+We setup the system to run against HPWREN cameras every ~10 minutes for evaluation/testing purpose. Stay tuned for updates. 
 
 ## Model Performance
 We had developed 3 models: SuperDuper-v1, SuperDuper-v2, and SuperDuper-edge. One of them, SuperDuper-edge is optimized for edge device. The table shows the performance of our models.
