@@ -4,7 +4,9 @@ In this project, AI For Mankind want to investigate and promote the use of AI De
 
 We continue to promote the curation of open datasets to speed up research and development. We collaborate with [HPWREN](http://hpwren.ucsd.edu/) in promoting the collaboration of our volunteers from private tech with public sector in solving this wildfire crisis.
 
-  AI For Mankind had annotated 744 wildfire smoke HPWREN images in 2019 and built a wildfire smoke detector using the annotated images. It has shown promising results running against wildfire images captured by HPWREN in 2020. See below.
+Reach out to us if you would like to [collaborate](ai.for.mankind@gmail.com) with us.
+
+AI For Mankind had created bounding box annotated wildfire smoke images in 2019 and built a wildfire smoke detector using the annotated images. It has shown promising results running against wildfire images captured by HPWREN in 2020. See below.
 
  1. For 2020-02-05 fire captured by HPWREN camera hp-w-mobo-c, our detector detected the smoke *13 minutes* after fire ignition.
 
@@ -101,6 +103,46 @@ We tested our model against different time periods eg. during sunrise, sunset, o
 | Fog                  | SuperDuper-v1 | 181          | 72                     | 0.398        | https://www.dropbox.com/sh/iw40v0yrkkimhha/AAANC4cxJR90cp8cfXF5kYHaa?dl=0 |
 
 On average, false positive rate ~0.0860
+
+
+## GET STARTED 
+We provided the following quick start repo and Colab Notebooks to get you started
+
+#### Object Detection
+You can checkout our wildfire smoke detector repo below. It comes with a docker image and annotated [HPWREN](http://hpwren.ucsd.edu/) images to get you started.
+
+1. [Wildfire Smoke Detector Quickstart Repo](https://github.com/aiformankind/wildfire-smoke-detection-camera). Follow the steps to build a simple wildfire smoke detector.
+
+#### Image Classification
+You can also checkout the following notebooks for smoke classification provided by us for the last [hackathon](https://aiformankind.org/lets-stop-wildfires-hackathon/). These are built only for classification and not for object detection.
+
+1. [Smoke Classifier using Entire Image](https://github.com/aiformankind/lets-stop-wildfires-hackathon/blob/master/Challenge_1A_WildfireSmokeImageClassifierForDemo.ipynb)
+
+2. [Smoke Classifier using Gridded Image](https://github.com/aiformankind/lets-stop-wildfires-hackathon/blob/master/Challenge_1B_WildfireSmokeImageClassifierForDemo.ipynb)
+
+## Wildfire Resources
+1. [FUEGO Wildfire Detection Slides by Kinshuk Govil](https://tinyurl.com/rbrn4oq)
+2. [A Review on Forest Fire Detection Techniques](https://journals.sagepub.com/doi/pdf/10.1155/2014/597368)
+3. [Wildland Fire Assessment System](http://www.wfas.net/)
+4. [The United States Fourth National Climate Assessment Volume II](https://nca2018.globalchange.gov/downloads/NCA4_Report-in-Brief.pdf)
+5. [How Wildfire Works](https://science.howstuffworks.com/nature/natural-disasters/wildfire.htm/printable)
+6. [Fighting Wildfires](https://mentalfloss.com/article/57094/10-strategies-fighting-wildfires)
+7. [Wildland Fire: What is Hazard Fuel Reduction?](https://www.nps.gov/articles/what-is-hazard-fuel-reduction.htm)
+
+
+## Tensorflow Resources
+1. [Tensorflow Quickstart](https://www.tensorflow.org/tutorials/quickstart/beginner)
+2. [Tensorflow Tutorials](https://www.tensorflow.org/tutorials)
+3. [Install Tensorflow in PyCharm](https://youtu.be/vEXCMOuPB3c)
+4. [What is transfer learning? Exploring the popular deep learning approach](https://builtin.com/data-science/transfer-learning) 
+5. [Transfer learning in TensorFlow 2 tutorial](https://adventuresinmachinelearning.com/transfer-learning-tensorflow-2/)
+6. [Deep learning unbalanced training data](https://towardsdatascience.com/deep-learning-unbalanced-training-data-solve-it-like-this-6c528e9efea6)
+
+## Papers
+1. [Do Better ImageNet Models Transfer Better?](https://www.zpascal.net/cvpr2019/Kornblith_Do_Better_ImageNet_Models_Transfer_Better_CVPR_2019_paper.pdf)
+2. [SpotTune: Transfer Learning through Adaptive Fine-tuning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Guo_SpotTune_Transfer_Learning_Through_Adaptive_Fine-Tuning_CVPR_2019_paper.pdf)
+3. [Taskonomy: Disentangling Task Transfer Learning](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zamir_Taskonomy_Disentangling_Task_CVPR_2018_paper.pdf)
+
 
 ## Donate to Support Us
 [Donate](https://donorbox.org/support-the-evaluation-and-deployment-of-wildfire-smoke-detector) to support our efforts. Your donation is tax deductible. 
