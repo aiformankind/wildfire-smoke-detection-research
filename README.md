@@ -128,6 +128,7 @@ You can also checkout the following notebooks for smoke classification provided 
 5. [How Wildfire Works](https://science.howstuffworks.com/nature/natural-disasters/wildfire.htm/printable)
 6. [Fighting Wildfires](https://mentalfloss.com/article/57094/10-strategies-fighting-wildfires)
 7. [Wildland Fire: What is Hazard Fuel Reduction?](https://www.nps.gov/articles/what-is-hazard-fuel-reduction.htm)
+8. [Fire Danger Rating](https://www.wfas.net/index.php/fire-danger-rating-fire-potential--danger-32)
 
 
 ## Tensorflow Resources
